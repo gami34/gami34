@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gideon Ifeanyi Mmeremnwanne
+- 👋 Hi, I’m a software engineer and entrepreneur from West Africa. I care about really good software and great design.
 - 👀 I’m interested in working with any collaborative mind
 - 💞️ I’m looking towards collaborating with Startups, embedded system projects
 - 👉 I am a software engineer with experience in web development.
