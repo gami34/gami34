@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gami34" alt="gami34" /></a> </p>
 
-- 🔭 I’m currently working on my [Chess Gaming and Gas Distribution Projects](https://chessmontedemo.netlify.com)
 
 - 🌱 I’m currently learning **Design Pattern, and advance Data modelling**
 
